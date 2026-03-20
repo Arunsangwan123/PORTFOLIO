@@ -14,7 +14,7 @@ const Projects = () => {
                 "Secured 100+ test user records with robust authentication"
             ],
             techStack: ["Tailwind CSS", "HTML", "PHP", "JavaScript"],
-            githubLink: "https://github.com/Arunsangwan123"
+            githubLink: "https://github.com/Arunsangwan123/CAR-RENTAL-"
         },
         {
             title: "Car Rental Website",
@@ -26,7 +26,7 @@ const Projects = () => {
                 "Enhanced navigation and optimized search experience"
             ],
             techStack: ["HTML", "CSS", "JavaScript", "MySQL"],
-            githubLink: "https://github.com/Arunsangwan123"
+            githubLink: "https://github.com/Arunsangwan123/Fair-Crop-Trade-web-Application"
         }
     ];
 

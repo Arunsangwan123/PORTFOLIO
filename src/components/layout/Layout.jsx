@@ -5,7 +5,7 @@ import Footer from './Footer';
 
 const Layout = () => {
     return (
-        <div className="flex flex-col min-h-screen relative text-white selection:bg-brand-500/30 selection:text-brand-100">
+        <div className="flex flex-col min-h-screen relative text-white selection:bg-brand-500/30 selection:text-brand-100 overflow-x-hidden">
 
             {/* Global Ambient Background */}
             <div className="fixed inset-0 z-[-1] overflow-hidden pointer-events-none">
