@@ -26,7 +26,8 @@ const Projects = () => {
                 "Enhanced navigation and optimized search experience"
             ],
             techStack: ["HTML", "CSS", "JavaScript", "MySQL"],
-            githubLink: "https://github.com/Arunsangwan123/CAR-RENTAL-"
+            githubLink: "https://github.com/Arunsangwan123/CAR-RENTAL-",
+            liveLink: "https://car-rental-jade-omega.vercel.app/"
         }
     ];
 
