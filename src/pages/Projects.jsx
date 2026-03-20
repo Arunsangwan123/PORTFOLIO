@@ -5,16 +5,16 @@ import ProjectCard from '../components/ui/ProjectCard';
 const Projects = () => {
     const projects = [
         {
-            title: "Event Dashboard",
-            description: "An Event & Task Management System built with Core PHP offering comprehensive task tracking, deadline management, and backend logic, improving efficiency by ~35%.",
+            title: "Fair Trade Agri Portal",
+            description: "A comprehensive web application enabling farmers to receive location-based crop recommendations and participate in a transparent marketplace, reducing dependency on intermediaries.",
             features: [
-                "15+ backend features including task prioritization & deadline tracking",
-                "State-transition logic handling 100+ test task entries, reducing manual updates by ~30%",
-                "Input validation, prepared statements & session authentication reducing vulnerabilities by ~40%",
-                "Secured 100+ test user records with robust authentication"
+                "Real-time weather API integration for localized crop suitability assessments",
+                "Dynamic marketplace platform for direct farmer-to-buyer crop trading",
+                "Automated task recommendations based on seasonal and regional agricultural data",
+                "Secure user authentication and comprehensive farm management dashboard"
             ],
-            techStack: ["Tailwind CSS", "HTML", "PHP", "JavaScript"],
-            githubLink: "https://github.com/Arunsangwan123/CAR-RENTAL-"
+            techStack: ["React", "Node.js", "MySQL", "Tailwind CSS"],
+            githubLink: "https://github.com/Arunsangwan123/Fair-Crop-Trade-web-Application"
         },
         {
             title: "Car Rental Website",
@@ -26,7 +26,7 @@ const Projects = () => {
                 "Enhanced navigation and optimized search experience"
             ],
             techStack: ["HTML", "CSS", "JavaScript", "MySQL"],
-            githubLink: "https://github.com/Arunsangwan123/Fair-Crop-Trade-web-Application"
+            githubLink: "https://github.com/Arunsangwan123/CAR-RENTAL-"
         }
     ];
 
